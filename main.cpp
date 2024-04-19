@@ -1,9 +1,13 @@
 #include <iostream>
-using namespace
+using namespace std;
 
 //update from user1-branch
 //this is sam
-int main[]
+//update
+//hello im making changes 
+
+int main() {
 
 return 0;
+
 }
